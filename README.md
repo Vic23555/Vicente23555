@@ -1,40 +1,127 @@
-# 💫 About Me:
-# Hi 👋, I'm Vicente Quiroz<br><br>🎓 Systems Engineer with experience in Data Analytics, Backend Development and Business Process Automation.<br><br>📊 Skilled in Python, SQL, Power BI, C#, PHP and database management.<br><br>🚀 Passionate about transforming business data into actionable insights and developing software solutions that improve operational efficiency.<br><br>🏢 Developed inventory management, sales analysis and customer management solutions for real business environments.<br><br>🌱 Currently expanding my knowledge in Business Intelligence, Data Analytics and Cloud Technologies.<br><br>💼 Open to opportunities in Data Analytics, Business Intelligence, Backend Development and IT Support.<br>
+# Vicente Quiroz
 
+### Data Analyst | Business Intelligence | SQL | Power BI | Python
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oovicqmoo@gmail.com) 
+Analista de Datos enfocado en transformar información en soluciones que faciliten el análisis y la toma de decisiones.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 🚀 Featured Projects
-
-### 📦 AD-STOCK
-Business management system with inventory control, sales tracking, customer management and sales prediction.
-
-**Technologies:** PHP, SQL, Java, Power BI
-
-### 📊 Sales Analytics Dashboard
-Interactive dashboards for KPI monitoring and business decision-making.
-
-**Technologies:** Power BI, SQL, Excel
-
-### 🤖 Quotation Chatbot
-Automated quotation and cost calculation system connected to databases.
-
-**Technologies:** PHP, SQL
-
-### 🦋 Papilia.Net
-Website developed for customer acquisition and information management.
-
-**Technologies:** PHP, HTML, CSS, JavaScript, SQL
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Vic23555&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vic23555&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vic23555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Mi experiencia combina **análisis de datos, Business Intelligence, bases de datos, automatización y desarrollo de aplicaciones**, permitiéndome trabajar desde la preparación y transformación de datos hasta la construcción de dashboards y soluciones analíticas.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vic23555&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Sobre mí
+
+* Análisis y transformación de datos
+* Desarrollo de dashboards e indicadores con **Power BI**
+* Consultas y modelado de datos con **SQL**
+* Automatización y procesamiento de información con **Python**
+* Diseño y administración de bases de datos
+* Desarrollo de aplicaciones y APIs
+* Automatización de procesos con Excel
+* Integración entre datos, aplicaciones y herramientas de análisis
+
+---
+
+## Tecnologías
+
+### Data & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Bases de datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Desarrollo
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+### Sales Analytics Dashboard
+
+Dashboard enfocado en el análisis de ventas y generación de indicadores para facilitar la interpretación del desempeño comercial.
+
+**Tecnologías:** Power BI · SQL · DAX · Data Modeling
+
+---
+
+### AD-STOCK
+
+Solución orientada al análisis y control de información relacionada con inventarios.
+
+**Tecnologías:** Python · SQL · Data Analysis
+
+---
+
+### Data Automation
+
+Automatización de procesos de procesamiento, limpieza y transformación de información utilizando Python y Excel.
+
+**Tecnologías:** Python · Excel · Data Processing
+
+---
+
+### BRADESCARD Analytics
+
+Proyecto de análisis y gestión de información empresarial que integra bases de datos, APIs, dashboards y procesos de automatización.
+
+**Tecnologías:** PostgreSQL/MySQL · SQL · React · Node.js · Power BI · Python
+
+> Los proyectos que contienen información empresarial utilizan datos ficticios, anonimizados o de demostración cuando corresponde.
+
+---
+
+## Mi enfoque
+
+```text
+Datos
+  ↓
+Limpieza y transformación
+  ↓
+SQL / Power Query
+  ↓
+Modelo de datos
+  ↓
+DAX / Análisis
+  ↓
+Power BI
+  ↓
+Indicadores y visualización
+  ↓
+Toma de decisiones
+```
+
+---
+
+## Actualmente trabajando en
+
+BETTER
+* Construcción de proyectos de **Data Analytics y Business Intelligence**
+* Desarrollo de dashboards con **Power BI**
+* Modelado y consultas con **SQL**
+* Automatización de procesos con **Python**
+* Integración de aplicaciones con bases de datos
+* Construcción de soluciones de análisis de información
+
+---
+
+## Contacto
+
+📧 [LinkedIn](#)
+
+💻 [GitHub](https://github.com/Vic23555)
